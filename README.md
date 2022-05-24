@@ -1,0 +1,2 @@
+# foundations-for-data-science
+Analyzing the marketing campaigns to help CMO devise the next strategy Visible to public Course Foundations for Data Science  This project aims to analyze marketing data and address some important business problems/questions related to customer demographics, product preferences, channel performances, etc.  Skills and Tools  Exploratory Data Analysis, Data Visualization, Statistics
